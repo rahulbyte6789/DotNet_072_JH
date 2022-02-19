@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApiPostMan
+namespace WebApplication2
 {
     using System;
     using System.Data.Entity;
